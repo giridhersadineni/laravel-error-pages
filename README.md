@@ -1,3 +1,10 @@
+# Screenshots
+
+![404](https://i.imgur.com/BelWQUa.png)
+![403](https://i.imgur.com/2qKb0Ns.png)
+![500](https://i.imgur.com/DS6zwIW.png)
+![503](https://i.imgur.com/G6f668R.png)
+
 # Tailwind CSS Webpack Starter Project
 
 This is an example of a super simple Webpack setup for using [Tailwind CSS](https://tailwindcss.com).
